@@ -1,0 +1,70 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".HomeActivity">
+
+    <!-- App Title -->
+    <TextView
+        android:id="@+id/appTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food Calorie Management App"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Add Meal Button -->
+    <Button
+        android:id="@+id/addMealButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Add Meal"
+        android:textSize="18sp"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white"
+        android:contentDescription="Button to add a meal"
+        app:layout_constraintTop_toBottomOf="@id/appTitleTextView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Calorie Summary Button -->
+    <Button
+        android:id="@+id/calorieSummaryButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Calorie Summary"
+        android:textSize="18sp"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white"
+        android:contentDescription="Button to view calorie summary"
+        app:layout_constraintTop_toBottomOf="@id/addMealButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Upload Photo Button -->
+    <Button
+        android:id="@+id/uploadPhotoButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Upload Meal Photo"
+        android:textSize="18sp"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white"
+        android:contentDescription="Button to upload a meal photo"
+        app:layout_constraintTop_toBottomOf="@id/calorieSummaryButton"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F5F5"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/dailyGoalTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Daily Calorie Goal: 2000 kcal"
+        android:textSize="18sp"
+        android:textColor="#FF5722"
+    android:layout_marginBottom="8dp"
+    android:background="#FFEDD5"
+    android:padding="10dp" />
+
+    <TextView
+        android:id="@+id/currentCaloriesTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Calorie Intake: 0 kcal"
+        android:textSize="18sp"
+        android:textColor="#424242"
+    android:layout_marginBottom="8dp"
+    android:background="#E0F7FA"
+    android:padding="10dp" />
+
+<ProgressBar
+android:id="@+id/calorieProgressBar"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:max="2000"
+style="?android:attr/progressBarStyleHorizontal"
+android:layout_marginBottom="16dp"
+android:progressTint="#80D8FF"
+    android:backgroundTint="#FFCCBC" />
+
+<TextView
+android:id="@+id/goalReachedTextView"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Daily Goal Reached!"
+android:textSize="20sp"
+android:textColor="#9E1313"
+    android:layout_marginBottom="16dp"
+    android:visibility="gone"
+    android:padding="8dp"
+    android:background="#E8F5E9"
+    android:gravity="center" />
+
+<ListView
+android:id="@+id/mealsListView"
+android:layout_width="match_parent"
+android:layout_height="match_parent" />
+    </LinearLayout>
