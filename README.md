@@ -110,7 +110,7 @@ This project was developed as part of a university assignment to demonstrate:
 
 **Keneesha Perera**
 📧 [keneeshayehaly@gmail.com](mailto:keneeshayehaly@gmail.com)
-🔗 LinkedIn
+🔗 www.linkedin.com/in/keneesha-perera-14104b268
 
 ---
 
