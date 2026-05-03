@@ -54,7 +54,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### ➕ Add Meal Screen
 
-![Add Meal](screenshots/Photo Upload.png)
+![Add Meal][(screenshots/Photo Upload.png)](https://github.com/Keneesha-Perera/Calorie-Management-Mobile-Application-/blob/6ae740e8f6db71f69cf5a55f83ec7ea4b79de864/screenshots/Photo%20Upload.png)
 
 ### 📊 Nutrition Search
 
