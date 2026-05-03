@@ -58,7 +58,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### 📊 Nutrition Search
 
-![Summary](screenshots/API Nutrition Search.png)
+![Summary]screenshots/API Nutrition Search.png
 
 ### 📜 Meal History
 
