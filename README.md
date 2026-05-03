@@ -62,7 +62,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### 📜 Meal History
 
-![History](screenshots/Calorie Summary.png)
+![History][(screenshots/Calorie Summary.png)](https://github.com/Keneesha-Perera/Calorie-Management-Mobile-Application-/blob/69df73195c04a5c027b940d247da6fed3d76bba1/screenshots/Calorie%20Summary.png)
 
 ---
 
