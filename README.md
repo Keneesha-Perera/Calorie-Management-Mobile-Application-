@@ -46,7 +46,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/App Face.png)
+![Home Screen][(screenshots/App Face.png)](https://github.com/Keneesha-Perera/Calorie-Management-Mobile-Application-/blob/0dc47bbbfd3325b9c4deb7306c15bb04bd9c82b5/screenshots/App%20Face.png)
 
 ### 🏠 Menu Screen
 
