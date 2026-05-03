@@ -58,7 +58,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### 📊 Nutrition Search
 
-![Summary]screenshots/API Nutrition Search.png
+![Summary][screenshots/API Nutrition Search.png](https://github.com/Keneesha-Perera/Calorie-Management-Mobile-Application-/blob/8656991a1fba3dce52ed780ef5645cef5e3d4589/screenshots/API%20Nutrition%20Search.png)
 
 ### 📜 Meal History
 
