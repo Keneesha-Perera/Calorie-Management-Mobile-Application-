@@ -50,7 +50,7 @@ This integration improves scalability, reliability, and user experience by ensur
 
 ### 🏠 Menu Screen
 
-![Menu Screen](screenshots/Option Menu.png)
+![Menu Screen][(screenshots/Option Menu.png)](https://github.com/Keneesha-Perera/Calorie-Management-Mobile-Application-/blob/1e27fe5a1b71ff48f0f12772d325d31d0070a495/screenshots/Option%20Menu.png)
 
 ### ➕ Add Meal Screen
 
